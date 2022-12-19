@@ -1,0 +1,44 @@
+#App
+{ 
+    background-color: rgb(240, 132, 164); 
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#Jogo {
+    background-color: rgb(139, 168, 247); 
+    font-family: monospace;
+}
+
+#ChatBot {
+    background-color: rgb(247, 240, 139); 
+    font-family: cursive;
+}
+
+.carousel-inner p { 
+    margin-top: 15px; color: white;
+    font-size: 20px ; }
+
+body { 
+    text-align: center;
+}
+
+
+.line {
+    height: 6px;
+    background-color: #000;
+    width: 70px;
+    margin: 8px auto;
+}
+
+.my_nav_bar
+{
+  position:sticky;
+  top:0;
+  z-index:99999;
+  background-color: rgba(139, 168, 247, 0.39);
+  text-color:black;
+}
+
+h1 {
+    margin-top:10px;
+}
